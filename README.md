@@ -10,6 +10,7 @@ Dashboard ini memberikan informasi lingkungan hidup di ekoregion Jawa, yang beri
   6. Penyakit, dll
 
 MainPage
+
 ![alt text](https://github.com/radenfarhanas/Project-Mari-Belajar/blob/main/Dashboard-Image/main%20page.png?raw=true)
 
 
