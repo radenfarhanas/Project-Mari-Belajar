@@ -15,18 +15,22 @@ MainPage
 
 
 Overview
+
 ![alt text](https://github.com/radenfarhanas/Project-Mari-Belajar/blob/main/Dashboard-Image/overview.png?raw=true)
 
 
 Pencemaran air & Penyakit
+
 ![alt text](https://github.com/radenfarhanas/Project-Mari-Belajar/blob/main/Dashboard-Image/pencemaran%20air%20%26%20penyakit.png?raw=true)
 
 
 Pencemaran udara
+
 ![alt text](https://github.com/radenfarhanas/Project-Mari-Belajar/blob/main/Dashboard-Image/pencemaran%20udara.png?raw=true)
 
 
 Sampah & Sarana Dinas Kebersihan
+
 ![alt text](https://github.com/radenfarhanas/Project-Mari-Belajar/blob/main/Dashboard-Image/sampah%20%26%20sarana%20dinas%20kebersihan.png?raw=true)
 
 
