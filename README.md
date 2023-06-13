@@ -9,6 +9,8 @@ Dashboard ini memberikan informasi lingkungan hidup di ekoregion Jawa, yang beri
   5. Kendaraan
   6. Penyakit, dll
 
+sumber data : https://www.bps.go.id/publication/2022/11/30/eb06d1c8e37285cac10c3086/statistik-lingkungan-hidup-indonesia-2022.html
+
 MainPage
 
 ![alt text](https://github.com/radenfarhanas/Project-Mari-Belajar/blob/main/Dashboard-Image/main%20page.png?raw=true)
