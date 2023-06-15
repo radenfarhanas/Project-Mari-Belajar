@@ -1,6 +1,12 @@
 # Dashboard Informasi Lingkungan Hidup
 Project Mari Belajar Batch 4
 
+1.	R. Farhan Ardwinata S		      [4975203/Universitas Diponegoro]
+2.	Neza Zhevira Septiani		      [4601914/Universitas Diponegoro]
+3.	Nirmalito Fatehah Nitinegari	[5241153/Universitas Diponegoro]
+4.	Tya Dwi Rahayu			          [4729369/Universitas Diponegoro]
+
+
 Dashboard ini memberikan informasi lingkungan hidup di ekoregion Jawa, yang berisikan:
   1. Kependudukan
   2. Pencemaran Air
